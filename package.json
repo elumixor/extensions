@@ -1,6 +1,6 @@
 {
   "name": "@elumixor/extensions",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "JavaScript/TypeScript extensions for Array, Set, and String prototypes",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
